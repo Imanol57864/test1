@@ -13,4 +13,4 @@ how to link your work to github:
 2) add untracked files: ($ git add .) for all files OR ($ git add fileName.file) for one file
 3) $ git commit -m "what and why you upload this commitment" -m "2nd box, description"
 4) $ git remote add <name> <repo_url>
-5) $ git push <name>
+5) $ git push <name> 
